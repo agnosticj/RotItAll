@@ -3,6 +3,7 @@ This is part of a package I've developed to automate crypto challenges. There ar
 Usage:
 
 $ python rotitall.py "Fvzcyr grkg fgevat"
+
 ROT-00 Fvzcyr grkg fgevat                
 ROT-01 Gwadzs hslh ghfwbu                
 ROT-02 Hxbeat itmi higxcv                
@@ -31,6 +32,7 @@ ROT-24 Dtxawp epie dectyr
 ROT-25 Euybxq fqjf efduzs                
 
 $ python rotitall.py -hex "46 76 7A 63 79 72 20 67 72 6B 67 20 66 67 65 76 61 74"
+
 ROT-00 Fvzcyr grkg fgevat                                                        
 ROT-01 Gwadzs hslh ghfwbu                                                        
 ROT-02 Hxbeat itmi higxcv                                                        
